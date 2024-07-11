@@ -1,8 +1,9 @@
-### 👋 Hi, I’m Ethan Wilke
+## 👋 Hi, I’m Ethan Wilke
 
-## Computer Science student
+### Computer Science student
 
  🌱 I’m currently learning **Concurrency**, **Computer Organisation** and **Software Modelling**
+ 
  📫 How to reach me ethanwilke69@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanwilke23)](https://github.com/anuraghazra/github-readme-stats)
