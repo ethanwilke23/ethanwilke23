@@ -6,6 +6,10 @@
  
  📫 How to reach me ethanwilke69@gmail.com
 
+ ### Skills
+ PYTHPN/JAVA/C++/DELPHI/SQL/
+ 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanwilke23)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
